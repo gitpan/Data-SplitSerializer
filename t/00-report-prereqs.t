@@ -14,6 +14,7 @@ my @modules = qw(
   Hash::Merge
   Module::Runtime
   Moo
+  Parse::Path
   Test::CheckDeps
   Test::More
   Test::Most
